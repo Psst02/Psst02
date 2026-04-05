@@ -20,5 +20,5 @@
 Is it too late to start learning now?
 
 > NO! It's never too late.  
-> I only got into programming while studying Game Design at Republic Polytechnic.  
+> I only got into programming while studying Game Design in 2022.  
 > After graduation, I was more resolved to pursue this path.
