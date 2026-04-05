@@ -9,11 +9,11 @@
 
 ## 🔎 GitHub Stats:
 <!-- GitHub stats from https://github.com/Pranesh-2005/github-readme-stats-fast -->
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Psst02&theme=radical&show_icons=true&include_all_commits=true&count_private=false)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Psst02&theme=dracula&show_icons=true&include_all_commits=true&count_private=false)
 
 ## 🏆 GitHub Trophies
 <!-- From https://github.com/lucthienphong1120/github-trophies?tab=readme-ov-file -->
-[![trophy](https://github-trophies.vercel.app/?username=Psst02&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/Psst02/github-trophies)
+[![trophy](https://github-trophies.vercel.app/?username=Psst02&theme=dracula&no-frame=false&no-bg=true&margin-w=4)](https://github.com/Psst02/github-trophies)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 💭 Thoughts:
