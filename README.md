@@ -10,7 +10,6 @@
 ## 🔎 GitHub Stats:
 <!-- GitHub stats from https://github.com/Pranesh-2005/github-readme-stats-fast -->
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Psst02&theme=radical&show_icons=true&include_all_commits=true&count_private=false)
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Psst02&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 <!-- From https://github.com/lucthienphong1120/github-trophies?tab=readme-ov-file -->
