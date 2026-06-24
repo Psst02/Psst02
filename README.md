@@ -1,7 +1,7 @@
 ## ‎‧₊˚✿ About Me ✿˚₊‧
 ✨ Aspiring Software Engineer sharing my learning journey<br/>
 👩🏻‍💻 Currently working on fcc open issues and participating in industry events<br/>
-🌱 Ongoing learning topic(s): [Calculus](https://stms.polite.edu.sg/student/ihlcourse/detail/a2dc8a71-ae04-4167-9e33-e2df6ce7948f), Algorithms and Data Structures<br/>
+🌱 Ongoing learning topic(s): Algorithms and Data Structures, Agentic Coding<br/>
 😼 LOVES cars ฅᨐฅ
 
 ## ⚙️ Tech Stack:
